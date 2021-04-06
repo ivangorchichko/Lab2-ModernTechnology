@@ -1,0 +1,20 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivangorchichko/Lab2-ModernTechnology.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivangorchichko/Lab2-ModernTechnology/issues"
+  },
+  "homepage": "https://github.com/ivangorchichko/Lab2-ModernTechnology#readme"
+}
